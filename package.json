@@ -1,0 +1,27 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "jest another rpg project",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aclarke0307/jest-another-rpg.git"
+  },
+  "keywords": [
+    "jest",
+    "another",
+    "rpg"
+  ],
+  "author": "alex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aclarke0307/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/aclarke0307/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
